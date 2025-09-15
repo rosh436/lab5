@@ -11,6 +11,5 @@ main(){
 	   printf("You are hired");
 	   else
 	   printf("You are not hired");
-	
-	
+	return 0;
 }

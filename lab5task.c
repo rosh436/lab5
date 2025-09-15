@@ -1,7 +1,7 @@
 #include<stdio.h>
 main(){
 	char interView[20], msCond[20];
-	printf("We are hiring\n");
+	printf("We are hiring");
 	printf("Have you done masters?");
 	scanf("%s", msCond);
 	if(strcmp(msCond,"Yes")==0)
